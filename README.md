@@ -42,7 +42,7 @@ This mentorship program comes as a result from the crisis the company will be fa
 
 ## Summary and Conclusion
 
-**How many roles will need to be filled as the "silver tsunami" begins to make an impact?** 
+**How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
 As analyzed before, we have seven different roles that will have an impact with the "silver tsunami", from Staffers to Managers. This represents 72,458 positions. 
 
 **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
