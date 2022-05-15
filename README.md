@@ -28,7 +28,7 @@ The company has decided to start a mentorship program, which is a great idea. Wi
 
 Sample of employees ready for the Mentorship Program:
 
-![mentorship_eligibility](/resources/mentorship_eligibility.png)
+![mentorship_eligibility](/resources/mentorship_eligibilty.png)
 
 We have 1,549 employees ready for the Program. If we compare statistics, this is a low number compared to the number of people retiring in the short term. 
 
